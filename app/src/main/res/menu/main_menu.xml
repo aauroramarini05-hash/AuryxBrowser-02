@@ -17,4 +17,20 @@
         android:id="@+id/menu_downloads"
         android:title="Downloads"/>
 
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Settings"/>
+
+    <item
+        android:id="@+id/menu_clear"
+        android:title="Clear data"/>
+
+    <item
+        android:id="@+id/menu_desktop"
+        android:title="Desktop mode"/>
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"/>
+
 </menu>
