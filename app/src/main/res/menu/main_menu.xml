@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_incognito"
+        android:title="Incognito"/>
+
+    <item
+        android:id="@+id/menu_bookmark"
+        android:title="Bookmark"/>
+
+    <item
+        android:id="@+id/menu_bookmarks"
+        android:title="Bookmarks"/>
+
+    <item
+        android:id="@+id/menu_downloads"
+        android:title="Downloads"/>
+
+</menu>

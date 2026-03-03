@@ -22,15 +22,39 @@
 
         <Button
             android:id="@+id/backButton"
+            android:text="Back"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Back"/>
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/forwardButton"
+            android:text="Forward"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/reloadButton"
+            android:text="Reload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/homeButton"
+            android:text="Home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/tabsButton"
+            android:text="Tabs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
 
         <Button
             android:id="@+id/goButton"
+            android:text="Go"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Go"/>
+            android:layout_height="wrap_content"/>
 
     </LinearLayout>
 
